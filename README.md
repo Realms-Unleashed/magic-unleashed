@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Magic Unleashed** is a Minecraft mod for Fabric 1.21 that introduces a variety of magical elements to enhance your gameplay experience. From powerful spells to mystical artifacts, this mod brings a new dimension of magic to Minecraft.
+**Magic Unleashed** is a Minecraft mod made for Realms Unleashed for Fabric 1.21 that introduces a variety of magical elements to enhance your gameplay experience. From powerful spells to mystical artifacts, this mod brings a new dimension of magic to Minecraft.
 
 ## Features
 
