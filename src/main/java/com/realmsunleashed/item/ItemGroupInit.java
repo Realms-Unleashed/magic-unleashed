@@ -1,12 +1,10 @@
-package com.realmsunleashed.init;
+package com.realmsunleashed.item;
 
 import com.realmsunleashed.MagicUnleashed;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Items;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
-import net.minecraft.server.command.PublishCommand;
 import net.minecraft.text.Text;
 
 import java.util.Optional;

@@ -1,12 +1,10 @@
 package com.realmsunleashed;
 
-import com.realmsunleashed.init.BlockInit;
-import com.realmsunleashed.init.ItemGroupInit;
-import com.realmsunleashed.init.ItemInit;
+import com.realmsunleashed.item.BlockInit;
+import com.realmsunleashed.item.ItemGroupInit;
+import com.realmsunleashed.item.ItemInit;
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

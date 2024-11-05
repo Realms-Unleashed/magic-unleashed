@@ -1,4 +1,4 @@
-package com.realmsunleashed.init;
+package com.realmsunleashed.item;
 
 import com.realmsunleashed.MagicUnleashed;
 import net.minecraft.block.AbstractBlock;
